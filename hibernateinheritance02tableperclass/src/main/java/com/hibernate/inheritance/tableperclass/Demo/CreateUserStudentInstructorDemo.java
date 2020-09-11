@@ -17,7 +17,7 @@ public class CreateUserStudentInstructorDemo {
 
         try {
 
-            Student student1 = new Student("Dima", "Slepuxa", "slepoi@lama.lt","Hibernate");
+            Student student1 = new Student("Dima", "Slepuxa", "slepoi@lala.lt","Hibernate");
             Instructor instructor1 = new Instructor("Pavel", "Zamaro", "zamaro@lama.lt", 20000.00);
 
 
